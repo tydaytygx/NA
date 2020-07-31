@@ -1,9 +1,9 @@
 .font_color_white{
-    color: white
+    color: white;
+    font-size: 18px;
 }
 
 body{
     color: white;
     background-color: #1d2125;
-    font-size: 25px;
 }
