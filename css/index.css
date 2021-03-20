@@ -1,16 +1,20 @@
 .font_color_white{
     color: white;
+    border: none;
 }
 
 .wide_100{  
     width: 100%;
+    border: none;
 }
 
 .margin{
     margin: 0 auto;
+    border: none;
 }
 
 body{
     color: white;
     background-color: #1d2125;
+    border: none;
 }
